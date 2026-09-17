@@ -5,7 +5,7 @@ on:
     # Nothing
   push:
     branches:
-      - dimitri
+      - dimitro
       - main
       - feature/*
     # paths:
