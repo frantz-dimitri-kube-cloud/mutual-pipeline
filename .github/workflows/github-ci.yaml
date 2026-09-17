@@ -1,6 +1,8 @@
 name: CI/CD React to On-Prem K8s
 
 on:
+  workflow_call:
+    # Nothing
   push:
     branches:
       - dimitri
